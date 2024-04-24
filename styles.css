@@ -1,0 +1,12 @@
+body {
+  background-color: lavender;
+}
+
+#header {
+  font-size: 70px;
+  color: purple;
+}
+
+.anchor-tag {
+  text-decoration: none;
+}
